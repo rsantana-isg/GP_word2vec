@@ -27,3 +27,13 @@ model.save(fname)
 
 Examples to call GP_Evolve_Answers.py are given at the end of the file. 
 For questions, email to Roberto Santana (roberto DOT santana AT ehu DOT es)
+
+
+References
+
+T. Mikolov, K. Chen, G. Corrado, and J. Dean. Efficient estimation of word representations in vector space. CoRR, abs/1301.3781, 2013.
+
+J. Pennington, R. Socher, and C. D. Manning. Glove: Global vectors for word representation. In Empirical Methods in Natural Language Processing (EMNLP), volume 14, pages 1532–1543, 2014.
+
+
+
