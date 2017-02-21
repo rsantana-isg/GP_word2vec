@@ -1,5 +1,5 @@
 # GP_word2vec
-Contains the main implementation of programs for the paper: Reproducing and learning new algebraic operations on word embeddings using genetic programming.
+Contains the main implementation of programs for the paper: Reproducing and learning new algebraic operations on word embeddings using genetic programming (https://arxiv.org/abs/1702.05624v1).
 
 This project implements the automatic learning of compositions of word vector representations using genetic programming. The project is based on the DEAP library that implements evolutionary algorithms (https://github.com/deap/deap) and on  the gensim library that implements natural language processing (NLP) routines (https://radimrehurek.com/gensim/). 
 
